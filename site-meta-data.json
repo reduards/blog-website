@@ -1,9 +1,9 @@
 {
-  "title": "Cloud 9 Cafe",
+  "title": "Cloud Technology",
   "siteUrl": "https://delog-w3layouts.netlify.com/",
   "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
   "home": {
-    "title": "Hi! Welcome to my cloud blog, enjoy!",
-    "description": "Here I talk about cloud technology on all levels."
+    "title": "Archetype 0",
+    "description": "Here I talk about cloud technology on all levels, enjoy!"
   }
 }
