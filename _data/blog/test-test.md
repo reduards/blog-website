@@ -2,8 +2,8 @@
 template: BlogPost
 path: /razbaz
 date: 2020-02-20T07:08:53.137Z
-title: Rasmus Boom
-thumbnail: ''
+title: Why subscriptions is a better scale unit than resource groups
+thumbnail: '/assets/suboverres.png'
 metaDescription: Meta description for rasmus
 ---
 
